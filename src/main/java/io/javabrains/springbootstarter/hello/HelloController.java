@@ -8,7 +8,7 @@ public class HelloController {
 	
 	@RequestMapping("/hello")
 	public String sayHi() {
-		return "Hi , Going Good on Learning";
+		return "Hi , Going Good on Learning, I am starting this new course, on Java Spring Boot for Hacktoberfest, will be logging my progress here";
 	}
 	
 
